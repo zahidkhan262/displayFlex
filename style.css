@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    padding: 20px;
+  
+}
+.display_flex{ 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.auto_card{
+    width: 300px;    
+    margin: 0 0;
+    padding: 0 15px;
+}
+.auto_card h1{
+    padding: 20px 0;
+    font-size: 25px;
+    color: #101010;
+}
+.auto_card h2{
+    padding: 10px 0;
+    font-size: 17px;
+    color: #494747;
+}
+.auto_card p{
+    padding: 5px 0;
+    font-size: 14px;
+    color: #fffbfb;
+}
+.card-1{
+
+    background: rgb(207, 88, 88);
+    border: 10px solid rgb(163, 39, 39);
+}
+.card-2{
+    background: rgb(180, 68, 68);
+    border: 10px solid rgb(78, 10, 10);
+}
+.card-3{
+    background: rgb(79, 98, 207);
+    border: 10px solid rgb(55, 0, 253);
+}
+.card-4{
+    background: rgba(37, 186, 206, 0.795);
+    border: 10px solid rgb(2, 234, 241);
+}
+.card-5{
+  
+    background: rgb(87, 199, 143);
+    border: 10px solid rgb(0, 129, 108);
+}
+.card-6{
+    background: rgb(148, 197, 93);
+    border: 10px solid rgb(21, 121, 54);
+}
+.card-7{
+    background: rgb(26, 95, 104);
+    border: 10px solid rgb(14, 174, 214);
+}
+.card-8{
+    background: rgb(189, 83, 175);
+    border: 10px solid rgb(226, 9, 208);
+}
+.card-9{
+    background: rgb(89, 0, 255);
+}
